@@ -13,5 +13,5 @@ https://chromedriver.chromium.org
 (Choose the version corresponding to your Chrome.)  
 (in most cases you'll need to choose chromedriver_win32.zip under "Latest stable release")
 
-## Changelog(3-2)
-[3-2]2021.05.17 Fix longtitude problem.
+## Changelog
+[3.2.0]2021.05.17 Fix longtitude problem.
