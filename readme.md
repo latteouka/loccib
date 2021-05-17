@@ -1,5 +1,5 @@
 ## user.txt
-Put your account name in without any space or newline.
+Put your account in this file without any whitespace or newline.
 
 ## ChromeDriver
 You need to put chromedriver under C.  
@@ -11,7 +11,7 @@ You need to put chromedriver under C.
 ## Download ChromeDriver
 [Chrome Driver](https://chromedriver.chromium.org)  
 (Choose the version corresponding to your Chrome.)  
-(in most cases you'll need to choose chromedriver_win32.zip under "Latest stable release")
+(In most cases you'll need to choose chromedriver_win32.zip under "Latest stable release")
 
 ## Changelog
 [3.2.0]2021.05.17 Fix longtitude problem.
