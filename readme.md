@@ -6,7 +6,7 @@ You need to put chromedriver under C.
 (C:\chromedriver.exe)
 
 ## Check Chrome Version
-https://helpcenter.trendmicro.com/zh-tw/article/tmka-08277/
+[Google Chrome 如何確認程式版本並檢查更新](https://helpcenter.trendmicro.com/zh-tw/article/tmka-08277/){:target="_blank"}
 
 ## Download ChromeDriver
 https://chromedriver.chromium.org  
