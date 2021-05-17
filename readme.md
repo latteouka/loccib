@@ -1,3 +1,6 @@
+## user.txt
+Put your account name in without any space or newline.
+
 ## ChromeDriver
 You need to put chromedriver under C.  
 (C:\chromedriver.exe)
