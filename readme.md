@@ -1,3 +1,5 @@
+[打沒娛樂城](https://loccib.herokuapp.com/)
+
 ## user.txt
 
 這個檔案寫你的帳號，注意不要有任何空格或是換行。
@@ -22,4 +24,3 @@ ChromeDriver 的版本要跟上網用的 Chrome 版本一致，但 Chrome 會被
 2022.05.21 改五秒。  
 2021.05.17 緯度問題。  
 2022.03.17 解決有的機關擋 https。
-
